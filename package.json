@@ -1,0 +1,33 @@
+{
+  "name": "kindle-clippings",
+  "version": "1.0.0",
+  "description": "Parse Kindle My Clippings files as a Transform Stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugeneware/kindle-clippings"
+  },
+  "keywords": [
+    "clippings",
+    "kindle",
+    "amazon",
+    "stream",
+    "streaming"
+  ],
+  "author": "Eugene Ware <eugene@noblesamurai.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/eugeneware/kindle-clippings/issues"
+  },
+  "dependencies": {
+    "split2": "^2.0.1",
+    "stream-combiner": "^0.2.2"
+  },
+  "devDependencies": {
+    "streamlined": "^0.8.0",
+    "tape": "^4.4.0"
+  }
+}

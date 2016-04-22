@@ -1,0 +1,70 @@
+﻿Better Than Before: Mastering the Habits of Our Everyday Lives (Rubin, Gretchen)
+- Your Highlight on Location 1041-1044 | Added on Saturday, July 11, 2015 4:27:48 PM
+
+Outer disorder may act as a broken window. The “broken windows” theory of crime prevention was introduced in the 1980s by social scientists who observed that when a community tolerates disorder and petty crime, such as breaking of windows, graffiti, turnstile jumping, or drinking in public, people are more likely to commit more serious crimes. As a law enforcement theory, it’s controversial; but whether or not it’s true on a community-wide level, it’s true on a personal level.
+==========
+﻿Better Than Before: Mastering the Habits of Our Everyday Lives (Rubin, Gretchen)
+- Your Highlight on Location 1061-1062 | Added on Saturday, July 11, 2015 4:29:00 PM
+
+in fact, as Charles Duhigg points out in his fascinating book The Power of Habit, the habit of bed making is correlated with a sense of greater well-being and higher productivity.
+==========
+﻿Better Than Before: Mastering the Habits of Our Everyday Lives (Rubin, Gretchen)
+- Your Highlight on Location 1062-1064 | Added on Saturday, July 11, 2015 4:29:12 PM
+
+Other common broken windows include having a messy car; accumulating piles of laundry or trash; not being able to find important items, like a passport or a phone charger; hanging on to stacks of newspapers, magazines, and catalogs; wearing pajamas or sweats all day; or not shaving or showering.
+==========
+﻿Better Than Before: Mastering the Habits of Our Everyday Lives (Rubin, Gretchen)
+- Your Bookmark on page 91 | Location 1409 | Added on Saturday, July 11, 2015 7:51:11 PM
+
+
+==========
+﻿Better Than Before: Mastering the Habits of Our Everyday Lives (Rubin, Gretchen)
+- Your Bookmark on page 89 | Location 1390 | Added on Saturday, July 11, 2015 7:55:35 PM
+
+
+==========
+﻿The Shallows: What the Internet Is Doing to Our Brains (Carr, Nicholas)
+- Your Note on Location 842 | Added on Monday, July 13, 2015 4:06:30 AM
+
+There is a beautiful simplicity that comes from not driving. by walking, or even catching a bus. There is much stress in driving a car, in avoiding collisions, and being tied to a steering wheel.
+==========
+﻿The Shallows: What the Internet Is Doing to Our Brains (Carr, Nicholas)
+- Your Highlight on Location 841-842 | Added on Monday, July 13, 2015 4:06:30 AM
+
+Some religious communities, such as the Old Order Amish fellowships in North America, shun motor cars and other modern technologies. All countries put legal or other restrictions on the use of certain tools.
+==========
+﻿The Shallows: What the Internet Is Doing to Our Brains (Carr, Nicholas)
+- Your Highlight on Location 968-973 | Added on Monday, July 13, 2015 4:24:02 AM
+
+Should the Egyptians learn to write, Thamus goes on, “it will implant forgetfulness in their souls: they will cease to exercise memory because they rely on that which is written, calling things to remembrance no longer from within themselves, but by means of external marks.” The written word is “a recipe not for memory, but for reminder. And it is no true wisdom that you offer your disciples, but only its semblance.” Those who rely on reading for their knowledge will “seem to know much, while for the most part they know nothing.” They will be “filled, not with wisdom, but with the conceit of wisdom.”
+==========
+﻿The Shallows: What the Internet Is Doing to Our Brains (Carr, Nicholas)
+- Your Note on Location 1908 | Added on Tuesday, July 14, 2015 4:26:26 PM
+
+It's interesting that in most of history, there has always been a great disparity between th number of content creators and content consumers. Thus, those who posess the skils and will to create content have influnce over those who choose only to consume. Perhaps this is changing somewhat with social media, but the fragment of thought are not persuasive as an article or video which has the structure of a beginning, middle and end.
+==========
+﻿Better Than Before: Mastering the Habits of Our Everyday Lives (Rubin, Gretchen)
+- Your Highlight on page 136 | Location 2032-2036 | Added on Tuesday, July 14, 2015 12:57:51 AM
+
+When a friend urged him “to take a little wine,” Dr. Johnson explained, “I can’t drink a little, child; therefore I never touch it. Abstinence is as easy to me, as temperance would be difficult.” That’s me, I realized, with a sudden thrill of identification. That’s exactly how I am. Like Dr. Johnson, I’m an Abstainer: I find it far easier to give up something altogether than to indulge moderately. And this distinction has profound implications for habits.
+==========
+﻿Better Than Before: Mastering the Habits of Our Everyday Lives (Rubin, Gretchen)
+- Your Highlight on page 142 | Location 2139-2142 | Added on Tuesday, July 14, 2015 1:09:26 AM
+
+“I can’t give myself a negative,” she told me. “I have to make this a positive thing. So I tell myself, ‘Now I’m free from French fries.’ ” “ ‘Free from French fries!’ Exactly!” I said. “Free from decisions, free from guilt! Free from the breadbasket and the candy bowl.”
+==========
+﻿Better Than Before: Mastering the Habits of Our Everyday Lives (Rubin, Gretchen)
+- Your Highlight on page 143 | Location 2146-2147 | Added on Tuesday, July 14, 2015 1:09:59 AM
+
+William James observed, “It is surprising how soon a desire will die of inanition if it be never fed.”
+==========
+Making_Sense_of_Stream_Processing_Confluent_1.pdf  
+- Your Highlight on page 105-105 | Added on Friday, April 22, 2016 7:41:21 AM
+
+Make each program do one thing well. To do a new job, build afresh rather than complicate old programs by adding new “fea‐ tures. ” 3 • Expect the output of every program to become the input to another, as yet unknown, program
+==========
+Making_Sense_of_Stream_Processing_Confluent_1.pdf  
+- Your Highlight on page 110-110 | Added on Friday, April 22, 2016 7:50:16 AM
+
+Apps with graphical user interfaces or web apps cannot simply be extended and wired together like this. You can’t just pipe Gmail into a separate search engine app, and post results to a wiki. Today it’s an exception, not the norm, to have programs that work together as smoothly as Unix tools do
+==========
